@@ -1,0 +1,17 @@
+.banner-zone {
+  max-width: 1050px;
+  margin: 0 auto;
+}
+
+.banner-zone .carousel-inner {
+    min-height: 175px;
+    margin: 0;
+    text-align: center;
+    overflow: hidden;
+}
+.banner-zone .carousel-inner img {
+  margin: 0 auto;
+}
+.banner-zone .carousel-inner > .active {
+    margin: 0;
+}
